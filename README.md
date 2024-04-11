@@ -1,4 +1,4 @@
-# RAG_local_tutorial
+# Tutorial for RAG usage with an LLM locally or in Google Colab
 Simple RAG tutorial that can be run locally or using Google Colab (only Pro version)
 
 This notebook can be executed in local or in Google Colab. 
