@@ -29,14 +29,12 @@ ollama pull gemma:7b
 
 ```
 curl -fsSL https://ollama.com/install.sh | sh
-
-ollama
 ```
 
 * Pull the LLM model. In this case, gemma:7b
 
 ```
-ollama pull gemma:7b
+ollama serve & ollama pull gemma:7b
 ```
 
 * Serve the model locally so the code can access it.
