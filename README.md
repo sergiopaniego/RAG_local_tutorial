@@ -22,6 +22,7 @@ ollama pull gemma:7b
 <a target="_blank" href="https://colab.research.google.com/github/sergiopaniego/RAG_local_tutorial/blob/main/example.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+
 * Install Ollama from the command line:
 
 (Press the button on the bottom-left part of the notebook to open a Terminal)
