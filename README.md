@@ -9,9 +9,11 @@ Either way, you have to install Ollama to run it.
 * [Extracting details from a file (PDF) using RAG](./example_rag.ipynb) <a target="_blank" href="https://colab.research.google.com/github/sergiopaniego/RAG_local_tutorial/blob/main/example_rag.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+
 * [Extracting details from a YouTube video using RAG](./youtube_rag.ipynb) <a target="_blank" href="https://colab.research.google.com/github/sergiopaniego/RAG_local_tutorial/blob/main/youtube_rag.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+
 * [Extracting details from an audio using RAG](./whisper_rag.ipynb) <a target="_blank" href="https://colab.research.google.com/github/sergiopaniego/RAG_local_tutorial/blob/main/whisper_rag.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
