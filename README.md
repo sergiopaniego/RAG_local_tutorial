@@ -37,12 +37,13 @@ For this tutorials, we use LangChain for generating the RAG application code, Ol
 
 Go to this URL and install it: https://ollama.com/download
 
-* Pull the LLM model. In this case, llama3
+* Pull the LLM model. In this case, llama3:
 
 ```
 ollama pull llama3
 ```
 
+More details about llama3 in the [official release blog](https://llama.meta.com/llama3/) and in [Ollama documentation](https://ollama.com/library/llama3).
 
 # Intructions to run the example using Google Colab (Pro account needed)
 
