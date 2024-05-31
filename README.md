@@ -1,5 +1,6 @@
 # Tutorials for RAG usage with an LLM locally or in Google Colab
-Simple RAG tutorials that can be run locally or using Google Colab (only Pro version).
+
+Simple RAG tutorials that can be run locally with an LLM or using Google Colab (only Pro version).
 
 These notebooks can be executed in local or in Google Colab. 
 Either way, you have to install Ollama to run it.
@@ -36,10 +37,10 @@ For this tutorials, we use LangChain for generating the RAG application code, Ol
 
 Go to this URL and install it: https://ollama.com/download
 
-* Pull the LLM model. In this case, gemma:7b
+* Pull the LLM model. In this case, llama3
 
 ```
-ollama pull gemma:7b
+ollama pull llama3
 ```
 
 
@@ -53,16 +54,16 @@ ollama pull gemma:7b
 curl -fsSL https://ollama.com/install.sh | sh
 ```
 
-* Pull the LLM model. In this case, gemma:7b
+* Pull the LLM model. In this case, llama3
 
 ```
-ollama serve & ollama pull gemma:7b
+ollama serve & ollama pull llama3
 ```
 
 * Serve the model locally so the code can access it.
 
 ```
-ollama serve & ollama run gemma:7b
+ollama serve & ollama run llama3
 ```
 
 
