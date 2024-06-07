@@ -5,6 +5,8 @@ Simple RAG tutorials that can be run locally with an LLM or using Google Colab (
 These notebooks can be executed in local or in Google Colab. 
 Either way, you have to install Ollama to run it.
 
+<img src="./imgs/rag_diagram.png" alt="RAG diagram"/>
+
 # Tutorials
 
 * [Extracting details from a file (PDF) using RAG](./example_rag.ipynb) <a target="_blank" href="https://colab.research.google.com/github/sergiopaniego/RAG_local_tutorial/blob/main/example_rag.ipynb">
