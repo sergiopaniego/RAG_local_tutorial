@@ -2,7 +2,7 @@
 
 Simple RAG tutorials that can be run locally with an LLM or using Google Colab (only Pro version).
 
-These notebooks can be executed in local or in Google Colab. 
+These notebooks can be executed locally or in Google Colab. 
 Either way, you have to install Ollama to run it.
 
 <img src="./imgs/rag_diagram.png" alt="RAG diagram"/>
@@ -27,7 +27,7 @@ Either way, you have to install Ollama to run it.
 
 # Technologies used
 
-For this tutorials, we use LangChain, LlamaIndex and HuggingFace for generating the RAG application code, Ollama for serving the LLM model and a Jupyter or Google Colab notebook.
+For these tutorials, we use LangChain, LlamaIndex, and HuggingFace for generating the RAG application code, Ollama for serving the LLM model, and a Jupyter or Google Colab notebook.
 
 <p align="center">
   <img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2023/07/langchain3.png" alt="Langchain Logo" width="15%">
